@@ -77,9 +77,11 @@
 	margin-bottom: 12px;
 }
 .profile-picture {
+	width: 60px;
 	height: 60px;
 	border-radius: 30px;
 	margin-right: 12px;
+	border: 1px solid rgba(0,0,0,0.3);
 }
 .profile-name {
 	font-size: 18px;

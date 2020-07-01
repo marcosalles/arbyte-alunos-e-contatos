@@ -66,7 +66,7 @@
 
 	width: 100%;
 	text-align: center;
-	margin-bottom: 12px;
+	margin-bottom: 18px;
 }
 
 .profile {
@@ -74,6 +74,7 @@
 	align-items: center;
 	flex-direction: wrap;
 	flex-wrap: wrap;
+	margin-bottom: 12px;
 }
 .profile-picture {
 	height: 60px;
@@ -86,6 +87,7 @@
 .profile-description {
 	margin-top: 8px;
 	width: 100%;
+	padding-left: 72px;
 }
 
 .students-title {
@@ -94,5 +96,5 @@
 
 	width: 100%;
 	text-align: center;
-	margin-bottom: 12px;
+	margin-bottom: 18px;
 }
